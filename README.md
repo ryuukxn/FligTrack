@@ -2,10 +2,6 @@
 
 **A Web-Based Integrated Platform for Timesheet Tracking and Invoice Management System with AI Chatbot Assistance**
 
-FligTrack brings timesheet tracking, invoice management, and an AI chatbot into one system, so the virtual assistants (VAs) of Fligno Software Philippines Inc. spend less effort on manual time logging and invoice preparation.
-
-This project is part of a research study for the subject **IT Research Methods** (October 2026).
-
 ## Features
 
 - **Timesheet tracking:** log time-in and time-out entries with automatic computation of total work hours
