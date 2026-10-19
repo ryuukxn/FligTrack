@@ -15,8 +15,6 @@ This project is part of a research study for the subject **IT Research Methods**
 - **Centralized dashboard:** one place to view timesheets, invoices, and clients
 - **AI chatbot:** answers questions about timesheets, invoices, clients, and how to use the system
 
-> Features are being built in stages. See [Project Status](#project-status).
-
 ## Tech Stack
 
 | Area | Technology |
